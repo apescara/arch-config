@@ -1,6 +1,0 @@
-Domenico
-Heriberto
-Marcela
-Paola
-implementación
-checksum_v1 = 7ff23e855404bacc7467a9ad6ef2a3a8

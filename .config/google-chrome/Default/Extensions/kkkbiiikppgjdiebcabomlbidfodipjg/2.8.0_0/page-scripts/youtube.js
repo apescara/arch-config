@@ -1,1 +1,0 @@
-(()=>{"use strict";document.querySelector(".html5-video-player").addEventListener("onStateChange",(function(t){setTimeout((function(){document.dispatchEvent(new CustomEvent("sbtl_onStateChange",{detail:t}))}))}))})();

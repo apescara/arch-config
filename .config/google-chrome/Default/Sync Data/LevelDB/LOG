@@ -1,6 +1,0 @@
-2025/05/04-15:12:31.207 443 Reusing MANIFEST /home/pescara/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/05/04-15:12:31.227 443 Recovering log #23
-2025/05/04-15:12:31.232 443 Reusing old log /home/pescara/.config/google-chrome/Default/Sync Data/LevelDB/000023.log 
-2025/05/04-15:14:02.433 444 Level-0 table #28: started
-2025/05/04-15:14:02.439 444 Level-0 table #28: 129216 bytes OK
-2025/05/04-15:14:02.442 444 Delete type=0 #23
