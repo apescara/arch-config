@@ -1,1 +1,1 @@
-yay -S google-chrome cliphist rofi
+yay -S google-chrome cliphist rofi pavucontrol
